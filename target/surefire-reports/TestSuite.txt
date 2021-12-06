@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.823 s <<< FAILURE! - in TestSuite
+Weather.Shopping.EndToEndBuyProduct.checkout  Time elapsed: 1.099 s  <<< FAILURE!
+java.lang.AssertionError: expected [PAYMENT SUCCESS] but found [Checkout]
+	at Weather.Shopping.EndToEndBuyProduct.checkout(EndToEndBuyProduct.java:227)
+

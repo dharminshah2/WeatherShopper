@@ -1,0 +1,21 @@
+23:54:49.423 [main] INFO  resources.Base - Enter Card CVC
+23:54:49.476 [main] INFO  resources.Base - Enter ZipCode
+23:54:49.565 [main] INFO  resources.Base - Click on Final Pay Button
+23:55:57.639 [main] INFO  resources.Base - Driver is Initialized
+23:55:57.837 [main] INFO  resources.Base - Current Temerature in applciation is: 42
+23:55:58.366 [main] INFO  resources.Base - Selecting Sunscreens
+23:55:58.732 [main] INFO  resources.Base - Lowest SPF-50 Price on Page is: 222
+23:55:58.814 [main] INFO  resources.Base - Lowest SPF-50 Product added in cart successfully
+23:55:58.814 [main] INFO  resources.Base - Lowest SPF-30 Price on Page is: 116
+23:55:58.899 [main] INFO  resources.Base - Lowest SPF-30 Product added in cart successfully
+23:56:00.844 [main] INFO  resources.Base - Click on Cart
+23:56:01.081 [main] INFO  resources.Base - Switch to Frame
+23:56:01.790 [main] INFO  resources.Base - Enter Email ID
+23:56:01.809 [main] INFO  resources.Base - Enter Card Number
+23:56:01.827 [main] INFO  resources.Base - Enter Card Expiry Month and Year
+23:56:01.891 [main] INFO  resources.Base - Enter Card CVC
+23:56:37.072 [main] INFO  resources.Base - Driver is Initialized
+23:56:37.217 [main] INFO  resources.Base - Current Temerature in applciation is: 9
+23:56:37.668 [main] INFO  resources.Base - Selecting Moisturizers
+23:56:38.113 [main] INFO  resources.Base - Lowest Aloe Price on Page is: 216
+23:56:38.210 [main] INFO  resources.Base - Lowest Aloe Product added in cart successfully

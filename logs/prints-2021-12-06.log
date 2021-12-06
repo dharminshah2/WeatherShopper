@@ -1,0 +1,21 @@
+12:05:31.250 [main] INFO  resources.Base - Selecting Moisturizers
+12:05:31.417 [main] INFO  resources.Base - Lowest Aloe Price on Page is: 215
+12:05:31.459 [main] INFO  resources.Base - Lowest Aloe Product added in cart successfully
+12:05:31.459 [main] INFO  resources.Base - Lowest Almond Price on Page is: 195
+12:05:31.506 [main] INFO  resources.Base - Lowest Almond Product added in cart successfully
+12:05:33.092 [main] INFO  resources.Base - Click on Cart
+12:05:33.157 [main] INFO  resources.Base - Switch to Frame
+12:05:33.822 [main] INFO  resources.Base - Enter Email ID
+12:05:33.838 [main] INFO  resources.Base - Enter Card Number
+12:05:33.852 [main] INFO  resources.Base - Enter Card Expiry Month and Year
+12:05:33.897 [main] INFO  resources.Base - Enter Card CVC
+12:05:33.933 [main] INFO  resources.Base - Enter ZipCode
+12:05:33.991 [main] INFO  resources.Base - Click on Final Pay Button
+12:07:27.665 [main] INFO  resources.Base - Driver is Initialized
+12:07:27.779 [main] INFO  resources.Base - Current Temerature in applciation is: 2
+12:07:28.223 [main] INFO  resources.Base - Selecting Moisturizers
+12:07:28.383 [main] INFO  resources.Base - Lowest Aloe Price on Page is: 199
+12:07:28.428 [main] INFO  resources.Base - Lowest Aloe Product added in cart successfully
+12:07:28.429 [main] INFO  resources.Base - Lowest Almond Price on Page is: 128
+12:07:28.476 [main] INFO  resources.Base - Lowest Almond Product added in cart successfully
+12:07:29.630 [main] INFO  resources.Base - Click on Cart

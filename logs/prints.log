@@ -1,0 +1,8 @@
+12:07:29.815 [main] INFO  resources.Base - Switch to Frame
+12:07:30.479 [main] INFO  resources.Base - Enter Email ID
+12:07:30.493 [main] INFO  resources.Base - Enter Card Number
+12:07:30.506 [main] INFO  resources.Base - Enter Card Expiry Month and Year
+12:07:30.549 [main] INFO  resources.Base - Enter Card CVC
+12:07:30.580 [main] INFO  resources.Base - Enter ZipCode
+12:07:30.637 [main] INFO  resources.Base - Click on Final Pay Button
+12:07:34.380 [main] INFO  resources.Base - Payment Confirmation
