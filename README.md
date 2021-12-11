@@ -12,8 +12,7 @@ accordingly
 f) Verify the cart
 g) Make a payment (For card details refer ->
 https://stripe.com/docs/testing#cards) The website
-has dummy card numbers. Don't worry, we don't expect you to actually pay
-the amount.
+has dummy card numbers.
 
 ------------------------------------------------------------------
 Solution Expectations:
